@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which command lists files?",
+    "options": {
+      "A": "cd",
+      "B": "ls",
+      "C": "grep",
+      "D": "mkdir"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which command is used to search text within files?",
+    "options": {
+      "A": "find",
+      "B": "grep",
+      "C": "cat",
+      "D": "echo"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "options": {
+      "A": "chown",
+      "B": "chmod",
+      "C": "touch",
+      "D": "rm"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which command is used to manage system services in Linux?",
+    "options": {
+      "A": "systemctl",
+      "B": "servicectl",
+      "C": "sysconfig",
+      "D": "procmon"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the numerical permission representation for read (r), write (w), and execute (x)?",
+    "options": {
+      "A": "666",
+      "B": "777",
+      "C": "755",
+      "D": "421"
+    },
+    "answer": "B"
+  }
+]
